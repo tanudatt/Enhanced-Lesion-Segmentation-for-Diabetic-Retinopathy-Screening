@@ -1,0 +1,12 @@
+Test Set Evaluation Results:
+IoU for MA: 0.0382
+IoU for EX: 0.2609
+IoU for SE: 0.6607
+IoU for HE: 0.2898
+Mean IoU: 0.3124
+
+AP for MA: 0.1094
+AP for EX: 0.3154
+AP for SE: 0.6828
+AP for HE: 0.3612
+Mean AP: 0.3672
